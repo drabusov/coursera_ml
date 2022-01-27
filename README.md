@@ -1,1 +1,1 @@
-# coursera_ml
+# Itroduction into machine learning coursera
